@@ -1,0 +1,35 @@
+body {
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  color: white;
+  font-family: "Sigmar One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.contenedor {
+  font-family: "Edu QLD Beginner", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.colorbarra {
+  color: rgb(36, 36, 119);
+} 
+
+.bordebarra :hover {
+  border: 1px solid rgb(23, 23, 71);
+  border-radius: 25px;
+}
+
+.contenedor {
+   font-family: "Edu QLD Beginner", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
